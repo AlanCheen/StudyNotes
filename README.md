@@ -9,6 +9,11 @@
 也非常非常欢迎推荐书籍  
 
 
+## Nav
+
+### EffectiveJava
+
+- [第2章 创建和销毁对象](./EffectiveJava/第2章 创建和销毁对象.md)
 
 ## Study Log  
   
